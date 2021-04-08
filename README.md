@@ -1,2 +1,3 @@
 # 50projects_50Days
-50 Projects in 50 Days Course
+
+This is the repository for all of the projects in the 50 Projects in 50 Days Course
