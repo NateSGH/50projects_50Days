@@ -49,6 +49,7 @@ function randomSelect() {
 
     setTimeout(() => {
       const randomTag = pickRandomTag();
+
       highlightTag(randomTag);
     }, 100);
   }, times * 100);
